@@ -1,2 +1,2 @@
 # json-store
-All json files I need
+All json files i need
